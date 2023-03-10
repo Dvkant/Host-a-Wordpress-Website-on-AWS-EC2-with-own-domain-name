@@ -11,6 +11,9 @@ First, install the application dependencies you need for WordPress. In your term
 ```
 sudo apt install php libapache2-mod-php php-mysql -y
 ```
+OR
+
+use the `install.sh` which install all the above cmd
 
 Download wordpress and extract 
 
